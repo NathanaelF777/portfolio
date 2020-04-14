@@ -621,6 +621,10 @@ h1, h2, h3, h4, h5, h6, figure {
 	background: rgba($brand-black,.05);
 }
 
+.fh5co-bg-section-l{
+	background: $brand-white;
+}
+
 #fh5co-services,
 #fh5co-started,
 #fh5co-testimonial,
@@ -1725,4 +1729,8 @@ h1, h2, h3, h4, h5, h6, figure {
 		border-top-left-radius: 0px!important;
 		border-bottom-left-radius: 0px!important;
 	}
+}
+
+.image {
+	width: 28rem;
 }
